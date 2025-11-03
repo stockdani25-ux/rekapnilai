@@ -1,0 +1,9 @@
+- [x] Change class input to select dropdown in HTML
+- [x] Add options: IPA 1, IPA 2, IPS, Lainnya
+- [x] Fix updateSubjects function: remove extra else and unused science2Subjects
+- [x] Test in browser to confirm IPA 2 has same subjects as IPA 1
+- [x] Add input field for new subject name in controls
+- [x] Add button "Tambah Mapel" to add subject
+- [x] Add JavaScript function addSubject() to push to subjects array and reinitialize table
+- [x] Update university search to handle single-letter keywords ("u" for universities, "i" for institutes)
+- [x] Fix API key reference from hardcoded string to dynamic input field
